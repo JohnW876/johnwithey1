@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;600&display=swap');
 
+/* Navbar */
 .navbar img {
    width: 180px;
    height: 138px;
@@ -11,3 +12,12 @@
     font-weight: 400;
     font-size: 18px;
 }
+/* Navbar */
+
+/* Carousel */
+
+.carousel {
+    max-width: 900px;
+}
+
+/* Carousel */
