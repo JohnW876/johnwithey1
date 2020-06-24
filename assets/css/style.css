@@ -72,3 +72,12 @@
     font-family: 'Spartan', sans-serif;
 }
 
+.contact-header {
+    font-family: 'Spartan', sans-serif;
+    padding: 10px;
+}
+
+.contact-header h2 {
+    text-align: center;
+}
+
