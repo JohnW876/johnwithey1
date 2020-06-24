@@ -65,3 +65,12 @@
     text-align: center;
     color: #000000;
 }
+
+/* -------------Contact Form---------- */
+
+.form-contact {
+    font-family: 'Spartan', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    max-width: 600px;
+}
