@@ -57,3 +57,11 @@
 .caption p {
     padding-top: 10px;
 }
+
+/* -------------Art Gallery---------- */
+
+.artgallery h2, p {
+    font-family: 'Spartan', sans-serif;
+    text-align: center;
+    color: #000000;
+}
