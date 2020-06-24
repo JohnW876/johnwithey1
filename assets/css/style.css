@@ -70,24 +70,5 @@
 
 .form-contact {
     font-family: 'Spartan', sans-serif;
-    margin-top: 10px;
-    margin-bottom: 40px;
-    max-width: 600px;
 }
 
-.form-contact textarea {
-    height: 100px;
-    width: 600px;
-}
-
-.form-contact input[type=text] {
-    width: 600px;
-}
-
-.form-contact input[type=email] {
-    width: 600px; 
-}
-
-.form-contact input[type=number] {
-    width: 600px;
-}
