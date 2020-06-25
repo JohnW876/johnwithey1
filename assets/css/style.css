@@ -101,3 +101,8 @@
     text-align: center;
 }
 
+.img-fluid {
+    width: 400px;
+    height: auto;
+}
+
