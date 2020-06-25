@@ -78,11 +78,14 @@
 .form-contact {
     font-family: 'Spartan', sans-serif;
     width: 500px;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 .contact-header {
     font-family: 'Spartan', sans-serif;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 .contact-header h2 {
