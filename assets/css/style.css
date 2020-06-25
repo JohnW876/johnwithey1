@@ -18,6 +18,7 @@
 
 .carousel {
     max-width: 800px;
+    
 }
 
 /* -------------Sign up Newsletter---------- */
@@ -76,6 +77,7 @@
 
 .form-contact {
     font-family: 'Spartan', sans-serif;
+    width: 500px;
 }
 
 .contact-header {
@@ -85,6 +87,12 @@
 
 .contact-header h2 {
     text-align: center;
+}
+
+.border {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f3ae55;
 }
 
 /* -------------About Section---------- */
