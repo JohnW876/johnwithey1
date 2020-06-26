@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;600&display=swap');
 
 /* ---------------------Navbar-------------- */
+
+.navbar-nav{
+    margin-top: 57px;
+}
+
 .navbar img {
    width: 180px;
    height: 138px;
