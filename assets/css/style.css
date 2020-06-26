@@ -4,7 +4,7 @@
 .navbar img {
    width: 180px;
    height: 138px;
-   margin-right: 80px;
+   margin-right: 50px;
    }
 
 .nav-item.nav-link {
@@ -34,7 +34,7 @@
     font-size: 20px;
     text-align: center;
     border-style: double;
-    width: 870px;
+    width: 770px;
     background-color: #f3ae55;
 }
 
