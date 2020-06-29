@@ -73,6 +73,11 @@
 
 .caption p {
     padding-top: 10px;
+    text-decoration: none;
+}
+
+.thumbnail a {
+    text-decoration: none;
 }
 
 /* -------------Art Gallery---------- */
