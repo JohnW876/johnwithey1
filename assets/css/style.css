@@ -135,16 +135,40 @@
 
 /* -------------About Section---------- */
 
-.about h2, p {
+.about-bio h3 {
     font-family: 'Spartan', sans-serif;
-    justify-content: center;
     text-align: center;
+    background-color: #1289a9;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
 }
 
-.services h3, p {
+.about-services h3 {
     font-family: 'Spartan', sans-serif;
-    justify-content: center;
     text-align: center;
+    background-color: #1289a9;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.about-photography h3 {
+    font-family: 'Spartan', sans-serif;
+    text-align: center;
+    background-color: #1289a9;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.about-artwork h3 {
+    font-family: 'Spartan', sans-serif;
+    text-align: center;
+    background-color: #1289a9;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .img-fluid {
@@ -153,12 +177,5 @@
     padding-bottom: 10px;
 }
 
-.services h2, h3 {
-    background-color: #1289a9;
-    color: #fff;
-    padding: 10px;
-    max-width: 500px;
-    border-radius: 10px;
-    text-align: center;
-    justify-content: center;
-}
+
+
