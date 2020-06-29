@@ -57,6 +57,11 @@
     border-color: #1289a9;
 }
 
+.btn-primary:hover {
+    color: #fff;
+    background-color: #e95859;
+}
+
 /* -------------Social Media Icons---------- */
 
 .social-icons li a i {
@@ -89,7 +94,7 @@
 }
 
 .thumbnail a {
-    text-decoration-color: #e95859;
+    text-decoration-color: #000000;
 }
 
 /* -------------Art Gallery---------- */
