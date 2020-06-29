@@ -4,6 +4,7 @@
 
 .navbar-nav{
     margin-top: 57px;
+    margin-right: 20px;
 }
 
 .navbar img {
@@ -129,7 +130,7 @@
 .border {
     padding: 20px;
     border-radius: 10px;
-    background-color: #1289a9
+    background-color: #1289a9;
 }
 
 /* -------------About Section---------- */
@@ -150,4 +151,14 @@
     width: 400px;
     height: auto;
     padding-bottom: 10px;
+}
+
+.services h2, h3 {
+    background-color: #1289a9;
+    color: #fff;
+    padding: 10px;
+    max-width: 500px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
 }
