@@ -21,7 +21,7 @@
 }
 
 .navbar-toggler {
-    margin-left: 28px;
+    margin-left: 40px;
     margin-top: 65px;
 }
 
@@ -68,6 +68,7 @@
     font-family: 'Spartan', sans-serif;
     text-align: center;
     color: #000000;
+    line-height: 2;
 }
 
 .caption p {
@@ -80,6 +81,7 @@
     font-family: 'Spartan', sans-serif;
     text-align: center;
     color: #000000;
+    line-height: 2;
 }
 
 /* -------------Contact Form---------- */
