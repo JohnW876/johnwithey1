@@ -112,18 +112,12 @@
 .about h2, p {
     font-family: 'Spartan', sans-serif;
     justify-content: center;
-}
-
-.about h2 {
     text-align: center;
 }
 
-.services h2, h3, p {
+.services h3, p {
     font-family: 'Spartan', sans-serif;
     justify-content: center;
-}
-
-.services h2, h3 {
     text-align: center;
 }
 
@@ -132,4 +126,3 @@
     height: auto;
     padding-bottom: 10px;
 }
-
