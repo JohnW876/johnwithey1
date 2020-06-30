@@ -78,8 +78,6 @@
     color: #e95859;
 }
 
-
-
 /* -------------Photo Gallery---------- */
 
 .photogallery h2, p {
@@ -106,33 +104,6 @@
     color: #000000;
     line-height: 2;
 }
-
-/* -------------Contact Form---------- */
-
-.form-contact {
-    font-family: 'Spartan', sans-serif;
-    color: #fff;
-    max-width: 400px;
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
-.contact-header {
-    font-family: 'Spartan', sans-serif;
-    padding: 10px;
-    margin-bottom: 10px;
-}
-
-.contact-header h2 {
-    text-align: center;
-}
-
-.border {
-    padding: 20px;
-    border-radius: 10px;
-    background-color: #1289a9;
-}
-
 /* -------------About Section---------- */
 
 .about-bio h3 {
@@ -176,6 +147,33 @@
     height: auto;
     padding-bottom: 10px;
 }
+
+/* -------------Contact Form---------- */
+
+.form-contact {
+    font-family: 'Spartan', sans-serif;
+    color: #fff;
+    max-width: 400px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-header {
+    font-family: 'Spartan', sans-serif;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.contact-header h2 {
+    text-align: center;
+}
+
+.border {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #1289a9;
+}
+
 
 
 
