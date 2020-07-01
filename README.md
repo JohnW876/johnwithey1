@@ -46,7 +46,8 @@ These groups make up the target audience and each user has a reason or need to v
 
 
 ### Wireframe mockups:
-Add images/pdf or links
+
+
 
 
 ## Features
@@ -129,6 +130,7 @@ The following were not possible in this release due to time and skill constraint
 
 ## Testing
 
+### Issues
 A media query was used to reduce the size of the logo when using devices up to 320px wide. Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
 
 See info on template
@@ -160,5 +162,5 @@ https://www.w3schools.com/bootstrap/bootstrap_images.asp
 
 
 ### Acknowledgements
-Inspiration for this project came from working as professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be. I now appreciate all of their efforts much, much more!
+Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be. I now appreciate all of their efforts much, much more!
 
