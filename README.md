@@ -22,7 +22,7 @@ This website is not intended to sell pieces of art to customers directly at this
 
 
 ## UX
-The user types can be defined as one of the following: Art lovers, private and commercial art buyers, potential art agents and potential collaborators.
+The user types can be defined as one of the following: Art & Photography fans, private and commercial art/photography buyers, potential art/photo agents and potential collaborators.
 
 These groups make up the target audience and each user has a reason or need to visit the site. The site has been designed to meet those needs as well as the needs of the artist. 
 
@@ -46,8 +46,10 @@ These groups make up the target audience and each user has a reason or need to v
 
 
 ### Wireframe mockups:
+Below is a link to my wireframe mockups which were created to help with visualisation of features and layout. 
+Mockups were created for every page of the website at mobile, tablet and desktop sizes.
 
-
+https://github.com/JohnW876/johnwithey1/tree/master/assets/wireframes
 
 
 ## Features
@@ -126,7 +128,7 @@ The following were not possible in this release due to time and skill constraint
 * Bootstrap 4 is a framework used to make the website responsive on all devices. 
 * FontAwesome is used to provide social media icons.
 * Google Fonts is used to provide styling to all type on the website. I opted for a single font of ‘Spartan’ to add to the minimalist theme. 
-* jQuery and Popper.js are used to enable Javascript functionality needed for the responsive bootstrap navigation bar.
+
 
 ## Testing
 
