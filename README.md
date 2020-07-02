@@ -2,7 +2,7 @@
 
 
 A portfolio website designed for an abstract artist and photographer. 
-The main aim of the website is to showcase the artist’s work to specific user groups including art lovers, private and commercial art buyers, potential art agents and potential collaborators. 
+The main aim and purpose of the website is to showcase the artist’s work to specific user groups including art lovers, private and commercial art buyers, potential art agents and potential collaborators. 
 This website is not intended to sell pieces of art to customers directly at this stage but it is designed to create interest which may enable the artist to market and sell to users in future. 
 
 ### Business needs of the website:
@@ -22,13 +22,21 @@ This website is not intended to sell pieces of art to customers directly at this
 
 
 ## UX
-The user types can be defined as one of the following: Art & Photography fans, private and commercial art/photography buyers, potential art/photo agents and potential collaborators.
+The user types can be defined as one of the following:
+* Art & Photography fans
+* Private and commercial art/photography buyers
+* Potential art/photo agents
+* Fellow artists
+* Potential collaborators.
 
-These groups make up the target audience and each user has a reason or need to visit the site. The site has been designed to meet those needs as well as the needs of the artist. 
+These groups make up the target audience and each user has a reason or need to visit the site. The site has been designed to meet those needs as well as the needs of the artist.
+
+Clear sections which relate specifically to all of the user types above are built into the website's design. 
+
 
 ### User Stories
 
-1. As a fan of art/photography, I want to discover new work by new artists, so that I can satisfy my interest and passions. 
+1. As a fan of art/photography, I want to discover work by new artists, so that I can satisfy my interests. 
 
 2. As an artist’s agent, I want to quickly evaluate the suitability of a new artist, so I can decide whether or not to represent them. 
 
