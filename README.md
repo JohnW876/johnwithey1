@@ -169,6 +169,9 @@ https://www.w3schools.com/howto/howto_css_contact_form.asp
 I got the idea for form-groups from here to make the contact form responsive.
 https://www.w3schools.com/bootstrap4/bootstrap_forms.asp
 
+Used code from here to make the pop up appear for invalid submission of contact form (empty fields).
+https://www.w3schools.com/tags/att_input_required.asp
+
 ### Acknowledgements
 Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be but not being able to contribute. 
 I now appreciate their efforts much more as I understand the challenges a little better.
