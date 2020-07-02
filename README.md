@@ -167,6 +167,7 @@ This example of how to build an inline form was used in the newsletter sign-up a
 https://getbootstrap.com/docs/4.5/components/forms/#inline-forms
 
 Some of the HTML structure for the social icons was taken from the Code Institute Tutorial - Rosie Resume. 
+https://www.youtube.com/watch?v=r9QC_imtw9A&feature=youtu.be
 
 The basic HTML for the image galleries came from W3 schools which was then adapted and styled. 
 https://www.w3schools.com/bootstrap/bootstrap_images.asp
