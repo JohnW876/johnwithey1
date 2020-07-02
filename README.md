@@ -163,8 +163,11 @@ Some of the HTML structure for the social icons was taken from the Code Institut
 The basic HTML for the image galleries came from W3 schools which was then adapted and styled. 
 https://www.w3schools.com/bootstrap/bootstrap_images.asp
 
-The Contact form's basic HTML was used from this example and then adapted and styled. 
+The Contact form's basic HTML was used from this W3 Schools example and then adapted and styled. 
 https://www.w3schools.com/howto/howto_css_contact_form.asp
+
+I got the idea for form-groups from here to make the contact form responsive.
+https://www.w3schools.com/bootstrap4/bootstrap_forms.asp
 
 ### Acknowledgements
 Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be but not being able to contribute. 
