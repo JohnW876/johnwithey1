@@ -1,186 +1,185 @@
-@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;600&display=swap");
 
 /* ---------------------Navbar-------------- */
 
-.navbar-nav{
-    margin-top: 57px;
-    margin-right: 20px;
+.navbar-nav {
+  margin-top: 57px;
+  margin-right: 20px;
 }
 
 .navbar img {
-   width: 180px;
-   height: 138px;
-   margin-right: 20px;
-   margin-left: 10px;
-   }
-
-.nav-item.nav-link {
-    font-family: 'Spartan', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    margin-top: 25px;
+  width: 180px;
+  height: 138px;
+  margin-right: 20px;
+  margin-left: 10px;
 }
 
+.nav-item.nav-link {
+  font-family: "Spartan", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 25px;
+}
 
 .navbar-toggler {
-    margin-left: 40px;
-    margin-top: 65px;
+  margin-left: 40px;
+  margin-top: 65px;
 }
 
 /* ---------------------Carousel------------ */
 
 .carousel {
-    max-width: 800px;
+  max-width: 800px;
 }
 
 /* -------------Sign up Newsletter---------- */
 
 .newsletter {
-    margin-top: 30px;
-    font-family: 'Spartan', sans-serif;
+  margin-top: 30px;
+  font-family: "Spartan", sans-serif;
 }
 
 .newsletter p {
-    font-family: 'Spartan', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    text-align: center;
-    padding: 5px;
-    width: 770px;
+  font-family: "Spartan", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+  width: 770px;
 }
 
 .sign-up {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .btn-primary {
-    color: #000000;
-    background-color: #fff;
-    border-color: #000000;
+  color: #000000;
+  background-color: #fff;
+  border-color: #000000;
 }
 
 .btn-primary:hover {
-    color: #fff;
-    background-color: #d05529;
+  color: #fff;
+  background-color: #d05529;
 }
 
 /* -------------Social Media Icons---------- */
 
 .social-icons li a i {
-    width: 30px;
-    height: 30px;
-    color: #000000;
-    font-size: 25px;
-    padding: 10px 20px;
-    margin-top: 30px;
+  width: 30px;
+  height: 30px;
+  color: #000000;
+  font-size: 25px;
+  padding: 10px 20px;
+  margin-top: 30px;
 }
 
 .social-icons li a i:hover {
-    color: #d05529;
+  color: #d05529;
 }
 
 /* -------------Photo Gallery---------- */
 
-.photogallery h2, p {
-    font-family: 'Spartan', sans-serif;
-    text-align: center;
-    color: #000000;
-    line-height: 2;
+.photogallery h2,
+p {
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+  color: #000000;
+  line-height: 2;
 }
 
 .caption p {
-    padding-top: 10px;
-    text-decoration: none;
+  padding-top: 10px;
+  text-decoration: none;
 }
 
 .thumbnail a {
-    text-decoration-color: #000000;
+  text-decoration-color: #000000;
 }
 
 /* -------------Art Gallery---------- */
 
-.artgallery h2, p {
-    font-family: 'Spartan', sans-serif;
-    text-align: center;
-    color: #000000;
-    line-height: 2;
+.artgallery h2,
+p {
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+  color: #000000;
+  line-height: 2;
 }
 /* -------------About Section---------- */
 
 .about-bio h3 {
-    font-family: 'Spartan', sans-serif;
-    text-align: center;
-    background-color: #1289a9;
-    color: #fff;
-    padding: 10px;
-    border-radius: 10px;
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+  background-color: #1289a9;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 .about-services h3 {
-    font-family: 'Spartan', sans-serif;
-    text-align: center;
-    background-color: #1289a9;
-    color: #fff;
-    padding: 10px;
-    border-radius: 10px;
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+  background-color: #1289a9;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 .about-photography h3 {
-    font-family: 'Spartan', sans-serif;
-    text-align: center;
-    background-color: #1289a9;
-    color: #fff;
-    padding: 10px;
-    border-radius: 10px;
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+  background-color: #1289a9;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 .about-artwork h3 {
-    font-family: 'Spartan', sans-serif;
-    text-align: center;
-    background-color: #1289a9;
-    color: #fff;
-    padding: 10px;
-    border-radius: 10px;
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+  background-color: #1289a9;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 .img-fluid {
-    width: 400px;
-    height: auto;
-    padding-bottom: 10px;
+  width: 400px;
+  height: auto;
+  padding-bottom: 10px;
 }
 
 /* -------------Contact Form---------- */
 
 .form-contact {
-    font-family: 'Spartan', sans-serif;
-    color: #fff;
-    max-width: 400px;
-    padding: 20px;
-    margin-bottom: 20px;
+  font-family: "Spartan", sans-serif;
+  color: #fff;
+  max-width: 400px;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 .contact-header {
-    font-family: 'Spartan', sans-serif;
-    padding: 10px;
-    margin-bottom: 10px;
+  font-family: "Spartan", sans-serif;
+  padding: 10px;
+  margin-bottom: 10px;
 }
 
 .contact-header h2 {
-    text-align: center;
+  text-align: center;
 }
 
 .border {
-    padding: 20px;
-    border-radius: 10px;
-    background-color: #1289a9;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #1289a9;
 }
 
 /* -------------Media Queries ---------- */
-@media(max-width: 320px) {
-    .navbar img {
-        height: 103.5px;
-        width: 135px;
-    }
+@media (max-width: 320px) {
+  .navbar img {
+    height: 103.5px;
+    width: 135px;
+  }
 }
-
-
