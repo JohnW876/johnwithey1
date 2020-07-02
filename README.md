@@ -137,7 +137,7 @@ The following were not possible in this release due to time and skill constraint
 
 
 ## Technologies Used
-* [Gitpod](https://www.gitpod.io/) Gitpod IDE was used to dvelop the website.
+* [Gitpod](https://www.gitpod.io/) Gitpod IDE was used to develop the website.
 * The programming languages HTML & CSS are both used in this project.
 * [Bootstrap](https://getbootstrap.com/) framework is used to make the website responsive on all devices. 
 * [FontAwesome](https://fontawesome.com/v4.7.0/) is used to provide social media icons.
