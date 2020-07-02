@@ -3,7 +3,7 @@
 
 A portfolio website designed for an abstract artist and photographer. 
 The main aim of the website is to showcase the artist’s work to specific user groups including art lovers, private and commercial art buyers, potential art agents and potential collaborators. 
-This website is not intended to sell pieces of art to customers directly at this stage but to generate and sustain interest which will enable the artist to market and sell to users in future. 
+This website is not intended to sell pieces of art to customers directly at this stage but it is designed to create interest which may enable the artist to market and sell to users in future. 
 
 ### Business needs of the website:
 * To provide an access point to the work of the artist.
@@ -30,13 +30,13 @@ These groups make up the target audience and each user has a reason or need to v
 
 1. As a fan of art/photography, I want to discover new work by new artists, so that I can satisfy my interest and passions. 
 
-2. As an artist’s agent, I want to quickly assess the suitability of a new artist, so I can decide whether or not to represent them. 
+2. As an artist’s agent, I want to quickly evaluate the suitability of a new artist, so I can decide whether or not to represent them. 
 
 3. As an artist’s  agent, I want to follow the artist’s progress over time, so that I can assess their suitability for representation. 
 
 4. As an artist/photographer, I want to see and view work by my piers, so I can find inspiration.
 
-5. As a fellow artist/photographer, I want to find collaborators, so that I can get in touch and we can work together.
+5. As a fellow artist/photographer, I want to find potential collaborators, so that I can get in touch and find out if we can work together.
 
 6. As a fan of the artist, I want to get all the latest news, info and social activity, so I can keep up to date with my interests. 
 
@@ -53,13 +53,14 @@ https://github.com/JohnW876/johnwithey1/tree/master/assets/wireframes
 
 
 ## Features
-The website has been designed as deliberately minimalist to match the style of the artwork. It therefore uses white space to a maximum and allows the artwork which is colourful to stand out. 
-This design employs a minimal colour palette of blue and orange with only a few elements using a colour other than black or white. 
-These elements are purposefully chosen to stand out or to make an impression with the user including the logo at the top of each page, the form submit buttons (upon hover), the about page headings, social links and the contact form. 
 
 The site includes a homepage featuring a carousel of images by the artist and a sign-up form to receive a newsletter.
 There are separate image gallery pages for art and photography, an about page and a contact page.
 There are main navigation links and social media links on every page. 
+
+The website has been designed as minimalist to firstly allow the work to stand out and also to match the style of the artwork being displayed. It uses white space to a maximum and employs a minimal colour palette of blue and orange with only a few elements using a colour other than black or white. 
+These colour elements include the logo at the top of each page, the form submit buttons (upon hover), the about page headings, social links and the contact form. 
+
 
 ### Home
 In keeping with the minimalist design there are a few carefully chosen features on the homepage. 
@@ -86,7 +87,7 @@ Both the Photography and Art galleries are identical in featuring a thumbnail ga
 ### About
 Designed to provide information on both the artist’s background and current services offered to the relevant users. 
 The page is simply divided into sections with large headings to make them clear and easy to find.
-The content is clear concise and the services content guides the user to get in touch via the contact page to meet both the user and business needs. 
+The content is clear, concise and the services content guides the user to get in touch via the contact page to meet both the user and business needs. 
 
 ### Contact
 Featuring a simple contact form with message area to allow the user to make enquiries such as upcoming events, potential commissions, collaboration or agency representation. 
@@ -145,24 +146,31 @@ See info on template
 All content was written and provided by John Withey.
 
 ### Media
-All images used in this project were created and provided by John Withey. 
+All images used in this project belong to the artist and were provided by John Withey. 
 
 ### Code
-The original navbar was taken from Bootstrap and edited and styled.
+The original navbar was taken from Bootstrap docs and edited and styled.
 https://getbootstrap.com/docs/4.5/components/navbar/
 
 The image carousel on the homepage was taken from Bootstrap and edited and styled.
  https://getbootstrap.com/docs/4.5/components/carousel/   
 
-This example of how to build an inline form was used in the newsletter sign-up but was edited and styled by John Withey.
+This example of how to build an inline form was used in the newsletter sign-up and edited and styled.
 https://getbootstrap.com/docs/4.5/components/forms/#inline-forms
 
-Some of the HTML structure for the social icons was taken from the Code Institute Tutorial - Rosie Resume. It was edited and styled by John Withey.
+Some of the HTML structure for the social icons was taken from the Code Institute Tutorial - Rosie Resume. 
 
-The idea for the basic image gallery came from W3 schools which was adapted, edited and styled by John Withey. 
+The basic HTML for the image galleries came from W3 schools which was then adapted and styled. 
 https://www.w3schools.com/bootstrap/bootstrap_images.asp
 
+The Contact form's basic HTML was used from this example and then adapted and styled. 
+https://www.w3schools.com/howto/howto_css_contact_form.asp
 
 ### Acknowledgements
-Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be. I now appreciate all of their efforts much, much more!
+Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be but not being able to contribute. 
+I now appreciate their efforts much more as I understand the challenges a little better.
+
+I'd like to thank my mentor Aaron Sinnott for helping with positive and constructive feedback during the whole project. 
+
+I'd also like to thank my fellow student Adam Parker for being a great support and for putting up with his old friend's unrelenting struggle to climb Everest! We reached basecamp! 
 
