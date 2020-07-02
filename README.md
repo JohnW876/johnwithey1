@@ -181,6 +181,9 @@ https://www.w3schools.com/bootstrap4/bootstrap_forms.asp
 Used code from here to make the pop up appear for invalid submission of contact form (empty fields).
 https://www.w3schools.com/tags/att_input_required.asp
 
+I copied code from here to place in my header to enable the favicon to function correctly.
+https://realfavicongenerator.net/
+
 ### Acknowledgements
 Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be but not being able to contribute. 
 I now appreciate their efforts much more as I understand the challenges a little better.
