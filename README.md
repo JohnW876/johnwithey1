@@ -161,7 +161,7 @@ The original navbar was taken from Bootstrap docs and edited and styled.
 https://getbootstrap.com/docs/4.5/components/navbar/
 
 The image carousel on the homepage was taken from Bootstrap and edited and styled.
- https://getbootstrap.com/docs/4.5/components/carousel/   
+https://getbootstrap.com/docs/4.5/components/carousel/   
 
 This example of how to build an inline form was used in the newsletter sign-up and edited and styled.
 https://getbootstrap.com/docs/4.5/components/forms/#inline-forms
@@ -187,5 +187,5 @@ I now appreciate their efforts much more as I understand the challenges a little
 
 I'd like to thank my mentor Aaron Sinnott for helping with positive and constructive feedback during the whole project. 
 
-I'd also like to thank my fellow student Adam Parker for being a great support and for putting up with his old friend's unrelenting struggle to climb Everest! We reached basecamp! 
+I'd also like to thank my fellow student Adam Parker for being a great support and for putting up with his old friend's unrelenting struggle to climb Everest!
 
