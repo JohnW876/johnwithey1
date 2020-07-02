@@ -3,7 +3,7 @@
 
 A portfolio website designed for an abstract artist and photographer. 
 The main aim and purpose of the website is to showcase the artist’s work to specific user groups including art lovers, private and commercial art buyers, potential art agents and potential collaborators. 
-This website is not intended to sell pieces of art to customers directly at this stage but it is designed to create interest which may enable the artist to market and sell to users in future. 
+This website is not intended to sell pieces of art to customers directly at this stage but it is designed to create interest which may enable the artist to market and sell to target users in future. 
 
 ### Business needs of the website:
 * To provide an access point to the work of the artist.
@@ -22,7 +22,9 @@ This website is not intended to sell pieces of art to customers directly at this
 
 
 ## UX
+
 The user types can be defined as one of the following:
+
 * Art & Photography fans
 * Private and commercial art/photography buyers
 * Potential art/photo agents
@@ -31,7 +33,9 @@ The user types can be defined as one of the following:
 
 These groups make up the target audience and each user has a reason or need to visit the site. The site has been designed to meet those needs as well as the needs of the artist.
 
-Clear sections which relate specifically to all of the user types above are built into the website's design. 
+Clear sections which relate specifically to all of the user types above are built into the website's design.
+
+A mobile first approach was taken to create this project with consideration of ease of use and navigation to each of the features/sections. 
 
 
 ### User Stories
@@ -133,10 +137,12 @@ The following were not possible in this release due to time and skill constraint
 
 
 ## Technologies Used
+* [Gitpod](https://www.gitpod.io/) Gitpod IDE was used to dvelop the website.
 * The programming languages HTML & CSS are both used in this project.
-* Bootstrap 4 is a framework used to make the website responsive on all devices. 
-* FontAwesome is used to provide social media icons.
-* Google Fonts is used to provide styling to all type on the website. I opted for a single font of ‘Spartan’ to add to the minimalist theme. 
+* [Bootstrap](https://getbootstrap.com/) framework is used to make the website responsive on all devices. 
+* [FontAwesome](https://fontawesome.com/v4.7.0/) is used to provide social media icons.
+* [Google Fonts](https://fonts.google.com/) is used to provide styling to all type on the website. I opted for a single font of ‘Spartan’ to add to the minimalist theme. 
+* [Real Favicon Generator](https://realfavicongenerator.net/) is used to create the favicon files and code in html page heads. 
 
 
 ## Testing
