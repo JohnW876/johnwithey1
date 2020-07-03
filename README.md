@@ -60,10 +60,18 @@ A mobile first approach was taken to create this project with consideration of e
 
 
 ### **Wireframe mockups:**
-Below is a link to the project's wireframe mockups which were created to help with visualisation of features and layout. 
-Mockups were created for every page of the website at mobile, tablet and desktop sizes.
+Below is a link to the project's wireframe mockups which were created using Balsamiq Wireframes software prior to the build to help with visualisation of features and layout. 
 
 https://github.com/JohnW876/johnwithey1/tree/master/assets/wireframes
+
+I found Balsmic very easy to use and it helped me to simplify my ideas and think about how to build in features that met the users needs before I started to write the code. 
+
+Wireframe mockups were created for every page of the website at mobile, tablet and desktop sizes and I referred to them throughout the build. 
+Because I had 15 mockups in total they were easier to compile into a pdf file that I referred to and could easily scroll through. 
+
+Although I had some problems getting the wireframes to show up in Github early on, I eventually managed to get them to upload as individual png files to a wireframes folder within the assets folder. 
+
+The only major change I made from my original wireframes was to make the gallery images on smaller devices be single columns and fill the screen width to follow the mobile first approach.  
 
 
 ## **Features**
@@ -144,9 +152,18 @@ Featuring a simple contact form with message area to allow the user to make enqu
 * [FontAwesome](https://fontawesome.com/v4.7.0/) is used to provide social media icons.
 * [Google Fonts](https://fonts.google.com/) is used to provide styling to all type on the website. I opted for a single font of ‘Spartan’ to add to the minimalist theme. 
 * [Real Favicon Generator](https://realfavicongenerator.net/) is used to create the favicon files and code in html page heads. 
-
+* [Balsamiq Wireframes](https://balsamiq.com/) were used prior to commencing coding to help with UX design, pre-visualisation and layout.
 
 ## **Testing**
+Throughout the project build, Chrome Developer Tools was used to inspect and test the website's responsiveness and functionality on mobile devices, tablets and desktop via a browser running from Gitpod. Any errors were then rectified through immediate modification of the code and further testing.
+
+### User Story Tests
+
+1. 
+
+
+
+
 
 ### **Issues**
 A media query was used to reduce the size of the logo when using devices up to 320px wide. Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
@@ -181,6 +198,10 @@ This project was developed with the Gitpod IDE and then pushed to GitHub.
 6. Change the working directory to the location you want the cloned directory to be made.
 7. Type git clone and paste the URL from step 4.
 8. Press enter to create your local clone. 
+
+**To run on Gitpod:**
+1. Install the Gitpod browser extension. See link to instructions here - https://www.gitpod.io/docs/browser-extension/
+2. Once you have the Gitpod extension installed then simply click on the green Gitpod button as shown in the screenshot above and it will create a new workspace for you. 
 
 
 ## **Credits**
