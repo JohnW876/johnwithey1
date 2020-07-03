@@ -5,6 +5,8 @@ A portfolio website designed for an abstract artist and photographer.
 The main aim and purpose of the website is to showcase the artist’s work to specific user groups including art lovers, private and commercial art buyers, potential art agents and potential collaborators. 
 This website is not intended to sell pieces of art to customers directly at this stage but it is designed to create interest which may enable the artist to market and sell to target users in future. 
 
+Link to website - https://johnw876.github.io/johnwithey1/
+
 ### Business needs of the website:
 * To provide an access point to the work of the artist.
 * To successfully show work by the artist in both art and photography to target user groups.
