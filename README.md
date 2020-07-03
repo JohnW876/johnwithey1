@@ -1,4 +1,4 @@
-# John Withey - Art Portfolio Website
+# **John Withey - Art Portfolio Website**
 
 
 A portfolio website designed for an abstract artist and photographer. 
@@ -21,7 +21,7 @@ This website is not intended to sell pieces of art to customers directly at this
 * Be able to make contact with the artist to ask questions or to make enquiries.
 
 
-## UX
+## **UX**
 
 The user types can be defined as one of the following:
 
@@ -38,7 +38,7 @@ Clear sections which relate specifically to all of the user types above are buil
 A mobile first approach was taken to create this project with consideration of ease of use and navigation to each of the features/sections. 
 
 
-### User Stories
+### **User Stories**
 
 1. As a fan of art/photography, I want to discover work by new artists, so that I can satisfy my interests. 
 
@@ -57,14 +57,14 @@ A mobile first approach was taken to create this project with consideration of e
 8. As an art lover, I want to find unique art, so that I can buy work and support new artists. (This need will be addressed in features to implement in future)
 
 
-### Wireframe mockups:
-Below is a link to my wireframe mockups which were created to help with visualisation of features and layout. 
+### **Wireframe mockups:**
+Below is a link to the project's wireframe mockups which were created to help with visualisation of features and layout. 
 Mockups were created for every page of the website at mobile, tablet and desktop sizes.
 
 https://github.com/JohnW876/johnwithey1/tree/master/assets/wireframes
 
 
-## Features
+## **Features**
 
 The site includes a homepage featuring a carousel of images by the artist and a sign-up form to receive a newsletter.
 There are separate image gallery pages for art and photography, an about page and a contact page.
@@ -74,7 +74,7 @@ The website has been designed as minimalist to firstly allow the work to stand o
 These colour elements include the logo at the top of each page, the form submit buttons (upon hover), the about page headings, social links and the contact form. 
 
 
-### Home
+### **Home**
 In keeping with the minimalist design there are a few carefully chosen features on the homepage. 
 
 * The logo which features on every page is important for immediate branding and its’ colour helps it to stand out. It lets the user know they are in the right place and tells them which artist’s website this is.
@@ -90,22 +90,22 @@ In keeping with the minimalist design there are a few carefully chosen features 
 
 These features on the homepage are designed to fulfil the needs of users from the user stories above. 
 
-### Photography & Art Galleries
+### **Photography & Art Galleries**
 Both the Photography and Art galleries are identical in featuring a thumbnail gallery of images. 
 * They have been divided into categories to appeal to their appropriate user types with relevant user needs. So art lovers, fellow artists and art agents can easily find the art gallery and photography related users can easily find the photography gallery.
 * Each gallery is separated into columns which responsively increase according to screen size. 
 * On mobile devices they display as a single column wide, on tablets they increase to two columns wide and on desktop screens will display as four columns wide.
 
-### About
+### **About**
 Designed to provide information on both the artist’s background and current services offered to the relevant users. 
 The page is simply divided into sections with large headings to make them clear and easy to find.
 The content is clear, concise and the services content guides the user to get in touch via the contact page to meet both the user and business needs. 
 
-### Contact
+### **Contact**
 Featuring a simple contact form with message area to allow the user to make enquiries such as upcoming events, potential commissions, collaboration or agency representation. 
 * Note the sign-up newsletter has been removed from this page to avoid dividing the users attention unnecessarily. 
 
-### Existing Features
+### **Existing Features**
 
 * Header Logo - Creates brand recognition and features at the top of every page of the website. Clicking the logo allows user to return to the homepage as expected. The colour helps it to stand out against the white background. 
 
@@ -128,15 +128,14 @@ Featuring a simple contact form with message area to allow the user to make enqu
 * Contact Form-  Allows the user to fill out a simple form with their contact details and a text area to add their message to the artist. 
 
 
-### Features to implement in future
-The following were not possible in this release due to time and skill constraints but would make great improvements to the site and add value to the user experience in future. 
+### **Features to implement in future**
 
 * E-Commerce functionality - If the website is successful in meeting its business objectives then a natural progression would be to offer e-commerce functionality to be able to sell original work and prints directly to the user. 
 * Lightbox function in galleries - I would like to add more sophisticated functionality to the image galleries to add value and an improved user experience. Users could add their favourites to a Lightbox to view later and could tie in with purchasing if the e-commerce feature above was also implemented.
 * Artist’s Blog - A blog would meet the needs of many target users and offer increased value through getting to know the artist and their ideas, inspirations, etc. 
 
 
-## Technologies Used
+## **Technologies Used**
 * [Gitpod](https://www.gitpod.io/) Gitpod IDE was used to develop the website.
 * The programming languages HTML & CSS are both used in this project.
 * [Bootstrap](https://getbootstrap.com/) framework is used to make the website responsive on all devices. 
@@ -145,24 +144,52 @@ The following were not possible in this release due to time and skill constraint
 * [Real Favicon Generator](https://realfavicongenerator.net/) is used to create the favicon files and code in html page heads. 
 
 
-## Testing
+## **Testing**
 
-### Issues
+### **Issues**
 A media query was used to reduce the size of the logo when using devices up to 320px wide. Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
 
-See info on template
 
-## Deployment
 
-## Credits
+## **Deployment**
 
-### Content
+This project was developed with the Gitpod IDE and then pushed to GitHub.
+
+**The following steps were taken to deploy the project to GitHub pages.**
+
+1. Login to GitHub.
+2. Select JohnW876/johnwithey1 from the list of repositories.
+3. Click on the Settings heading near the top of the page.
+4. Scroll down to the GitHub pages section.
+5. Under Source click on the 'None' button dropdown and select Master Branch.
+6. The page will auto-refresh.
+7. Scroll down again to the GitHub pages section and copy the link to the newly deployed website.
+ - https://johnw876.github.io/johnwithey1/.
+
+**To run this code locally:**
+1. Navigate to the github repository via this link - https://github.com/JohnW876/johnwithey1
+2. Click on the green dropdown labelled Code.
+3. The box will display as below.
+
+![Screenshot Clone Dropdown](/assets/images/clone.png)
+
+
+4. Copy the URL in the box to clone with HTTPS.
+5. Open your preferred IDE.
+6. Change the working directory to the location you want the cloned directory to be made.
+7. Type git clone and paste the URL from step 4.
+8. Press enter to create your local clone. 
+
+
+## **Credits**
+
+### **Content**
 All content was written and provided by John Withey.
 
-### Media
+### **Media**
 All images used in this project belong to the artist and were provided by John Withey. 
 
-### Code
+### **Code**
 The original navbar was taken from Bootstrap docs and edited and styled.
 https://getbootstrap.com/docs/4.5/components/navbar/
 
@@ -190,11 +217,11 @@ https://www.w3schools.com/tags/att_input_required.asp
 I copied code from here to place in my header to enable the favicon to function correctly.
 https://realfavicongenerator.net/
 
-### Acknowledgements
+### **Acknowledgements**
 Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be but not being able to contribute. 
 I now appreciate their efforts much more as I understand the challenges a little better.
 
 I'd like to thank my mentor Aaron Sinnott for helping with positive and constructive feedback during the whole project. 
 
-I'd also like to thank my fellow student Adam Parker for being a great support and for putting up with his old friend's unrelenting struggle to climb Everest!
+ 
 
