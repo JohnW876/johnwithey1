@@ -152,21 +152,167 @@ Featuring a simple contact form with message area to allow the user to make enqu
 * [FontAwesome](https://fontawesome.com/v4.7.0/) is used to provide social media icons.
 * [Google Fonts](https://fonts.google.com/) is used to provide styling to all type on the website. I opted for a single font of ‘Spartan’ to add to the minimalist theme. 
 * [Real Favicon Generator](https://realfavicongenerator.net/) is used to create the favicon files and code in html page heads. 
-* [Balsamiq Wireframes](https://balsamiq.com/) were used prior to commencing coding to help with UX design, pre-visualisation and layout.
+* [Balsamiq Wireframes](https://balsamiq.com/) were used prior to commencing coding to help with UX design, pre-visualisation and layout and were consulted throughout development.
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) were used to inspect the code and preview changes on mobile, tablet and desktop devices.
+
 
 ## **Testing**
 Throughout the project build, Chrome Developer Tools was used to inspect and test the website's responsiveness and functionality on mobile devices, tablets and desktop via a browser running from Gitpod. Any errors were then rectified through immediate modification of the code and further testing.
 
-### User Story Tests
+### **User Story Tests**
 
-1. 
+1. As a fan of art/photography, I want to discover work by new artists, so that I can satisfy my interests. 
+
+These users needs are met via:
+* The carousel on the homepage which displays a selection of new work.
+*  The separate art and photography gallery pages which can be easily navigated to.
+
+2. As an artist’s agent, I want to quickly evaluate the suitability of a new artist, so I can decide whether or not to represent them. 
+
+These users needs are met via:
+*  The work that is showcased in the galleries.
+*  The ‘About’ page which gives information on the artist and services available. 
+*  The social links that lead to a wealth of information about the artist and their presence on social media. 
 
 
+3. As an artist’s  agent, I want to follow the artist’s progress over time, so that I can assess their suitability for representation. 
+
+These users needs are met via:
+* The signup form on every page (except the contact page) which will deliver a regular newsletter to allow the user to keep up to date with the artist’s progress.
+* The social media links which are of enormous value to help judge the artists progress over time. 
+
+4. As an artist/photographer, I want to see and view work by my piers, so I can find inspiration.
+
+These users needs are met via:
+* The carousel on the homepage which displays a selection of new work.
+*  The separate art and photography gallery pages which can be easily navigated to.
+* The social media links which can show work in progress, alternative work and up to date posts of work not displayed on the website. 
 
 
+5. As a fellow artist/photographer, I want to find potential collaborators, so that I can get in touch and find out if we can work together.
+
+These users needs are met via:
+* The Contact form on the Contact page.
+* Information provided in the About page.
+* The work displayed in the gallery sections.
+
+
+6. As a fan of the artist, I want to get all the latest news, info and social activity, so I can keep up to date with my interests. 
+
+These users needs are met via:
+* The Newsletter sign-up form.
+* The information on the About page.
+* The social media links.
+
+
+7. As a commercial art buyer, I want to know if the artist undertakes commissions and be able to contact them, so I can easily commission a new piece of art work. 
+
+These users needs are met via:
+* The information on the About page regarding services and commissions.
+* The contact form on the Contact page.
+
+
+8. As an art lover, I want to find unique art, so that I can buy work and support new artists. 
+
+This need will be addressed in the section about features to implement in future.
+
+
+### **Interactivity Tests**
+The following tests were carried out to confirm that all interactive parts of the site are working as expected:
+
+1. Main navigation links
+
+	i.  Go to the “Home” page.
+
+    ii. Click each of the main navigation links to verify if the browser navigates to the correct page.
+
+	iii. Click each of the navigation links to verify if the active page shows as selected with dark text. 
+
+	iv. Click on all the other pages nav links and then click on the logo image to verify if this returns the user to the homepage.
+
+The above tests were carried out and no errors were found. 
+
+2. Carousel
+
+	i. Go to the “Home” page
+
+	ii. Click on the carousel’s arrows to verify that the image moves successfully to the next and previous slide.
+
+The above tests were carried out and no errors were found. 
+
+2. Sign-up form
+
+	i. Submit an empty sign-up form and verify if an error message is displayed. 
+
+	ii. Try to hover the pointer over the “Submit” button to verify if it changes to the correct colour.
+
+	iii. Try to submit an invalid email address to verify if the correct error message appears.
+
+The above tests were carried out and no errors were found. 
+
+3. Photography & Art Gallery pages
+
+	i. Click on the individual gallery images to verify if the image opens in a separate page with blank background.
+
+	ii. Click on the caption under each image to verify if the image opens in a separate page with blank background.
+
+	iii. Try to hover over the caption text to verify if the underline actively appears and disappears. 
+
+The above tests were carried out and no errors were found. 
+
+4. Contact Form
+
+	i. Submit an empty form and verify if an error message is displayed. 
+
+	ii. Try to hover the pointer over the “Submit” button to verify if it changes to the correct colour.
+
+	iii. Try to submit an invalid email address to verify if the correct error message appears.
+
+The above tests were carried out and no errors were found. 
+
+5. Social Media Links
+
+	i.  Click on all social icons to verify if this opens the link, in a new window, at the appropriate page.
+
+	ii. Try to hover the pointer over all social icons to verify they change to the correct colour.
+
+The above tests were carried out and no errors were found. 
+
+## **Device Testing**
+
+The website was tested on the following devices:
+
+### **Mobile devices**
+
+* Apple iPhone XR 
+* Apple iPhone 
+
+### **Tablets**
+
+* Apple iPad 
+
+### **Desktop** 
+
+The website was tested on the following browsers on an Apple iMac running OS Catalina 10.15.5:
+
+* Google Chrome - Version 83.0.4103.116 (Official Build) (64-bit)
+* Apple Safari - Version 13.1.1 (15609.2.9.1.2)
+* Mozilla Firefox Version 78.0.1 (64-bit)
+
+The website displayed well on all of the above browsers and all interactive elements were tested and found to be working correctly. 
+
+
+### **Code Validators:**
+
+The following websites were used to validate the code:
+
+HTML
+
+CSS
 
 ### **Issues**
-A media query was used to reduce the size of the logo when using devices up to 320px wide. Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
+Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
+A media query was used to reduce the size of the logo when using devices up to 320px wide resolving the issue. 
 
 
 
@@ -244,7 +390,7 @@ https://realfavicongenerator.net/
 Inspiration for this project came from working as a professional photographer and artist for many years and always being frustrated at having to try and explain to web developers how I would like my website to be but not being able to contribute. 
 I now appreciate their efforts much more as I understand the challenges a little better.
 
-I'd like to thank my mentor Aaron Sinnott for helping with positive and constructive feedback during the whole project. 
+I'd like to thank my mentor Aaron Sinnott for helping with positive and constructive feedback during the project. 
 
  
 
