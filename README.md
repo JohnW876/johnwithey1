@@ -178,7 +178,7 @@ These users needs are met via:
 3. As an artist’s  agent, I want to follow the artist’s progress over time, so that I can assess their suitability for representation. 
 
 These users needs are met via:
-* The signup form on every page (except the contact page) which will deliver a regular newsletter to allow the user to keep up to date with the artist’s progress.
+* The sign-up form on every page (except the contact page) which will deliver a regular newsletter to allow the user to keep up to date with the artist’s progress.
 * The social media links which are of enormous value to help judge the artists progress over time. 
 
 4. As an artist/photographer, I want to see and view work by my piers, so I can find inspiration.
@@ -214,7 +214,7 @@ These users needs are met via:
 
 8. As an art lover, I want to find unique art, so that I can buy work and support new artists. 
 
-This need will be addressed in the section about features to implement in future.
+This user need will be addressed in the section about features to implement in future.
 
 
 ### **Interactivity Tests**
@@ -278,6 +278,25 @@ The above tests were carried out and no errors were found.
 
 The above tests were carried out and no errors were found. 
 
+## **Responsiveness**
+
+**Mobile:**
+
+On mobile devices the navbar collapses to a navbar toggler or hamburger icon. Clicking this produces a dropdown menu which displays the navigation links to all pages on the website.
+All images in the carousel, art galleries and About page display at close to full width of the screen in a single column.
+
+**Tablets:**
+
+On tablet devices the full navigation bar is shown with all nav links displayed across the top of the page.
+The Galleries show images in 2 columns each taking up half the width of the screen.
+The About page displays the profile image in the center of the screen and the content headings below span the full width of the screen. 
+
+**Desktop:**
+
+On desktop computers and laptops the full navigation bar is also shown. The carousel on the homepage is constrained to a maximum width of 800 px.
+The image galleries display 4 columns of images across the width of the screen. 
+The About page displays the profile image in the center of the screen and the content headings below span the full width of the screen. 
+
 ## **Device Testing**
 
 The website was tested on the following devices:
@@ -293,7 +312,7 @@ The website was tested on the following devices:
 
 ### **Desktop** 
 
-The website was tested on the following browsers on an Apple iMac running OS Catalina 10.15.5:
+The website was tested on the following browsers on Apple iMac running OS Catalina 10.15.5:
 
 * Google Chrome - Version 83.0.4103.116 (Official Build) (64-bit)
 * Apple Safari - Version 13.1.1 (15609.2.9.1.2)
@@ -304,15 +323,17 @@ The website displayed well on all of the above browsers and all interactive elem
 
 ### **Code Validators:**
 
-The following websites were used to validate the code:
+The following websites were used to validate the code and there were no errors or warnings to show:
 
-HTML
+HTML - [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
 
-CSS
+CSS - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
 ### **Issues**
 Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
-A media query was used to reduce the size of the logo when using devices up to 320px wide resolving the issue. 
+
+### **Fixes**
+A media query was used to reduce the size of the logo when using devices up to a max of 320px wide, resolving the issue. 
 
 
 
@@ -331,7 +352,9 @@ This project was developed with the Gitpod IDE and then pushed to GitHub.
 7. Scroll down again to the GitHub pages section and copy the link to the newly deployed website.
  - https://johnw876.github.io/johnwithey1/.
 
-**To run this code locally:**
+The Development Branch and the Master Branch are identical at the time of this project's submission. 
+
+**How to run this code locally:**
 1. Navigate to the github repository via this link - https://github.com/JohnW876/johnwithey1
 2. Click on the green dropdown labelled Code.
 3. The box will display as below.
@@ -356,7 +379,7 @@ This project was developed with the Gitpod IDE and then pushed to GitHub.
 All content was written and provided by John Withey.
 
 ### **Media**
-All images used in this project belong to the artist and were provided by John Withey. 
+All images used in this project were created by the artist and were provided by John Withey. 
 
 ### **Code**
 The original navbar was taken from Bootstrap docs and edited and styled.
