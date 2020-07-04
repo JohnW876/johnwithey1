@@ -101,8 +101,8 @@ In keeping with the minimalist design there are a few carefully chosen features 
 These features on the homepage are designed to fulfil the needs of users from the user stories above. 
 
 ### **Photography & Art Galleries**
-Both the Photography and Art galleries are identical in featuring a thumbnail gallery of images. 
-* They have been divided into categories to appeal to their appropriate user types with relevant user needs. So art lovers, fellow artists and art agents can easily find the art gallery and photography related users can easily find the photography gallery.
+Both the Photography and Art galleries are identical in featuring a gallery of thumbnail images. 
+* They have been divided into categories to appeal to their appropriate user types with relevant user needs. So art lovers, fellow artists and art agents can easily find the art gallery and likewise photography related users can easily find the photography gallery.
 * Each gallery is separated into columns which responsively increase according to screen size. 
 * On mobile devices they display as a single column wide, on tablets they increase to two columns wide and on desktop screens will display as four columns wide.
 
@@ -301,14 +301,14 @@ The About page displays the profile image in the center of the screen and the co
 
 The website was tested on the following devices:
 
-### **Mobile devices**
+### **Mobile**
 
-* Apple iPhone XR 
-* Apple iPhone 
+* Apple iPhone XR using Safari on OS 13.5.1
+* Apple iPhone 7 using Safari on OS 11.3.1
 
 ### **Tablets**
 
-* Apple iPad 
+* Apple iPad Air 2 using Safari on OS 13.5.1
 
 ### **Desktop** 
 
