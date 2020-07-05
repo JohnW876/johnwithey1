@@ -56,7 +56,8 @@ A mobile first approach was taken to create this project with consideration of e
 
 8. As an art lover, I want to find unique art, so that I can buy work and support new artists. 
 
-Further information and screenshots showing how this project meets the user's needs can be found in the separate TESTING.md file.
+Further information and screenshots showing how this project meets the user's needs can be
+found in the separate [TESTING.md](https://github.com/JohnW876/johnwithey1/blob/master/TESTING.md) file.
 
 ### **Wireframe mockups:**
 Below is a link to the project's wireframe mockups which were created using Balsamiq Wireframes software prior to the build to help with visualisation of features and layout. 
@@ -152,7 +153,7 @@ Featuring a simple contact form with message area to allow the user to make enqu
 
 ## **Testing**
 
-Information regarding testing can be found in a separate file - TESTING.md
+Information regarding testing can be found in this separate [TESTING.md](https://github.com/JohnW876/johnwithey1/blob/master/TESTING.md) file.
 
 ## **Deployment**
 
