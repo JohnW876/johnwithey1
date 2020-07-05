@@ -238,7 +238,7 @@ The above tests were carried out and no errors were found.
 
 	ii. Click on the carousel’s arrows to verify that the image moves successfully to the next and previous slide.
 
-The above tests were carried out and no errors were found. 
+The above tests were carried out and a small error with some images jumping due to size difference was found. 
 
 2. Sign-up form
 
@@ -312,7 +312,7 @@ The website was tested on the following devices:
 
 ### **Tablets**
 
-* Apple iPad Air 2 using Safari on OS 13.5.1
+* Apple iPad Air 2 using Safari on IOS 13.5.1
 * Microsoft Surface Pro on Windows 10 Pro (Tested on Microsoft Edge & Google Chrome)
 
 ### **Desktop** 
