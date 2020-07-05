@@ -327,7 +327,7 @@ The website displayed well on all of the above browsers and devices.
 All interactive elements were tested and found to be working correctly except for the issues detailed below which have now been resolved.
 
 ### **Issues**
-1. Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
+1. During development an issue with the iPhone 5/SE device showed whilst inspecting in Chrome DevTools where the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
 2. On the image carousel two of the images appear to jump slightly as they fade from one image to the next.
 3. On the Photography gallery page, two images appear slightly smaller than the others. 
 
