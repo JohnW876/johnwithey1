@@ -22,7 +22,6 @@ Link to website - https://johnw876.github.io/johnwithey1/
 * Be able to follow the artist on social media platforms.
 * Be able to make contact with the artist to ask questions or to make enquiries.
 
-
 ## **UX**
 
 The user types can be defined as one of the following:
@@ -38,7 +37,6 @@ These groups make up the target audience and each user has a reason or need to v
 Clear sections which relate specifically to all of the user types above are built into the website's design.
 
 A mobile first approach was taken to create this project with consideration of ease of use and navigation to each of the features/sections. 
-
 
 ### **User Stories**
 
@@ -56,8 +54,9 @@ A mobile first approach was taken to create this project with consideration of e
 
 7. As a commercial art buyer, I want to know if the artist undertakes commissions and be able to contact them, so I can easily commission a new piece of art work. 
 
-8. As an art lover, I want to find unique art, so that I can buy work and support new artists. (This need will be addressed in features to implement in future)
+8. As an art lover, I want to find unique art, so that I can buy work and support new artists. 
 
+Further information and screenshots showing how this project meets the user's needs can be found in the separate TESTING.md file.
 
 ### **Wireframe mockups:**
 Below is a link to the project's wireframe mockups which were created using Balsamiq Wireframes software prior to the build to help with visualisation of features and layout. 
@@ -73,7 +72,6 @@ Although I had some problems getting the wireframes to show up in Github early o
 
 The only major change I made from my original wireframes was to make the gallery images on smaller devices be single columns and fill the screen width to follow the mobile first approach.  
 
-
 ## **Features**
 
 The site includes a homepage featuring a carousel of images by the artist and a sign-up form to receive a newsletter.
@@ -82,7 +80,6 @@ There are main navigation links and social media links on every page.
 
 The website has been designed as minimalist to firstly allow the work to stand out and also to match the style of the artwork being displayed. It uses white space to a maximum and employs a minimal colour palette of blue and orange with only a few elements using a colour other than black or white. 
 These colour elements include the logo at the top of each page, the form submit buttons (upon hover), the about page headings, social links and the contact form. 
-
 
 ### **Home**
 In keeping with the minimalist design there are a few carefully chosen features on the homepage. 
@@ -137,13 +134,11 @@ Featuring a simple contact form with message area to allow the user to make enqu
 
 * Contact Form-  Allows the user to fill out a simple form with their contact details and a text area to add their message to the artist. 
 
-
 ### **Features to implement in future**
 
 * E-Commerce functionality - If the website is successful in meeting its business objectives then a natural progression would be to offer e-commerce functionality to be able to sell original work and prints directly to the user. 
 * Lightbox function in galleries - I would like to add more sophisticated functionality to the image galleries to add value and an improved user experience. Users could add their favourites to a Lightbox to view later and could tie in with purchasing if the e-commerce feature above was also implemented.
 * Artist’s Blog - A blog would meet the needs of many target users and offer increased value through getting to know the artist and their ideas, inspirations, etc. 
-
 
 ## **Technologies Used**
 * [Gitpod](https://www.gitpod.io/) Gitpod IDE was used to develop the website.
@@ -155,195 +150,9 @@ Featuring a simple contact form with message area to allow the user to make enqu
 * [Balsamiq Wireframes](https://balsamiq.com/) were used prior to commencing coding to help with UX design, pre-visualisation and layout and were consulted throughout development.
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) were used to inspect the code and preview changes on mobile, tablet and desktop devices.
 
-
 ## **Testing**
-Throughout the project build, Chrome Developer Tools was used to inspect and test the website's responsiveness and functionality on mobile devices, tablets and desktop via a browser running from Gitpod. Any errors were then rectified through immediate modification of the code and further testing.
 
-### **User Story Tests**
-
-1. As a fan of art/photography, I want to discover work by new artists, so that I can satisfy my interests. 
-
-These users needs are met via:
-* The carousel on the homepage which displays a selection of new work.
-*  The separate art and photography gallery pages which can be easily navigated to.
-
-2. As an artist’s agent, I want to quickly evaluate the suitability of a new artist, so I can decide whether or not to represent them. 
-
-These users needs are met via:
-*  The work that is showcased in the galleries.
-*  The ‘About’ page which gives information on the artist and services available. 
-*  The social links that lead to a wealth of information about the artist and their presence on social media. 
-
-
-3. As an artist’s  agent, I want to follow the artist’s progress over time, so that I can assess their suitability for representation. 
-
-These users needs are met via:
-* The sign-up form on every page (except the contact page) which will deliver a regular newsletter to allow the user to keep up to date with the artist’s progress.
-* The social media links which are of enormous value to help judge the artists progress over time. 
-
-4. As an artist/photographer, I want to see and view work by my piers, so I can find inspiration.
-
-These users needs are met via:
-* The carousel on the homepage which displays a selection of new work.
-*  The separate art and photography gallery pages which can be easily navigated to.
-* The social media links which can show work in progress, alternative work and up to date posts of work not displayed on the website. 
-
-
-5. As a fellow artist/photographer, I want to find potential collaborators, so that I can get in touch and find out if we can work together.
-
-These users needs are met via:
-* The Contact form on the Contact page.
-* Information provided in the About page.
-* The work displayed in the gallery sections.
-
-
-6. As a fan of the artist, I want to get all the latest news, info and social activity, so I can keep up to date with my interests. 
-
-These users needs are met via:
-* The Newsletter sign-up form.
-* The information on the About page.
-* The social media links.
-
-
-7. As a commercial art buyer, I want to know if the artist undertakes commissions and be able to contact them, so I can easily commission a new piece of art work. 
-
-These users needs are met via:
-* The information on the About page regarding services and commissions.
-* The contact form on the Contact page.
-
-
-8. As an art lover, I want to find unique art, so that I can buy work and support new artists. 
-
-This user need will be addressed in the section about features to implement in future.
-
-
-### **Interactivity Tests**
-The following tests were carried out to confirm that all interactive parts of the site are working as expected:
-
-1. Main navigation links
-
-	i.  Go to the “Home” page.
-
-    ii. Click each of the main navigation links to verify if the browser navigates to the correct page.
-
-	iii. Click each of the navigation links to verify if the active page shows as selected with dark text. 
-
-	iv. Click on all the other pages nav links and then click on the logo image to verify if this returns the user to the homepage.
-
-The above tests were carried out and no errors were found. 
-
-2. Carousel
-
-	i. Go to the “Home” page
-
-	ii. Click on the carousel’s arrows to verify that the image moves successfully to the next and previous slide.
-
-The above tests were carried out and a small error with some images jumping due to size difference was found. 
-
-2. Sign-up form
-
-	i. Submit an empty sign-up form and verify if an error message is displayed. 
-
-	ii. Try to hover the pointer over the “Submit” button to verify if it changes to the correct colour.
-
-	iii. Try to submit an invalid email address to verify if the correct error message appears.
-
-The above tests were carried out and no errors were found. 
-
-3. Photography & Art Gallery pages
-
-	i. Click on the individual gallery images to verify if the image opens in a separate page with blank background.
-
-	ii. Click on the caption under each image to verify if the image opens in a separate page with blank background.
-
-	iii. Try to hover over the caption text to verify if the underline actively appears and disappears. 
-
-The above tests were carried out and no errors were found. 
-
-4. Contact Form
-
-	i. Submit an empty form and verify if an error message is displayed. 
-
-	ii. Try to hover the pointer over the “Submit” button to verify if it changes to the correct colour.
-
-	iii. Try to submit an invalid email address to verify if the correct error message appears.
-
-The above tests were carried out and no errors were found. 
-
-5. Social Media Links
-
-	i.  Click on all social icons to verify if this opens the link, in a new window, at the appropriate page.
-
-	ii. Try to hover the pointer over all social icons to verify they change to the correct colour.
-
-The above tests were carried out and no errors were found. 
-
-## **Responsiveness**
-
-**Mobile:**
-
-On mobile devices the navbar collapses to a navbar toggler or hamburger icon. Clicking this produces a dropdown menu which displays the navigation links to all pages on the website.
-All images in the carousel, art galleries and About page display at close to full width of the screen in a single column.
-
-**Tablets:**
-
-On tablet devices the full navigation bar is shown with all nav links displayed across the top of the page.
-The Galleries show images in 2 columns each taking up half the width of the screen.
-The About page displays the profile image in the center of the screen and the content headings below span the full width of the screen. 
-
-**Desktop:**
-
-On desktop computers and laptops the full navigation bar is also shown. The carousel on the homepage is constrained to a maximum width of 800 px.
-The image galleries display 4 columns of images across the width of the screen. 
-The About page displays the profile image in the center of the screen and the content headings below span the full width of the screen. 
-
-## **Device Testing**
-
-The website was tested on the following devices:
-
-### **Mobile**
-
-* Apple iPhone XR using Safari on IOS 13.5.1
-* Apple iPhone 7 using Safari on IOS 11.3.1
-* Apple iPhone 8 using Safari on IOS 13.4
-* Motorola Moto E5 using Google Chrome on Android 8.1
-* Google Pixel 3A using Google Chrome on Android 10
-* Google pixel 3XL using Google Chrome on Android 10
-
-### **Tablets**
-
-* Apple iPad Air 2 using Safari on IOS 13.5.1
-* Microsoft Surface Pro on Windows 10 Pro (Tested on Microsoft Edge & Google Chrome)
-
-### **Desktop** 
-
-The website was tested on the following browsers on Apple iMac running OS Catalina 10.15.5:
-
-* Google Chrome - Version 83.0.4103.116 (Official Build) (64-bit)
-* Apple Safari - Version 13.1.1 (15609.2.9.1.2)
-* Mozilla Firefox Version 78.0.1 (64-bit)
-
-The website displayed well on all of the above browsers and devices. 
-All interactive elements were tested and found to be working correctly except for the issues detailed below which have now been resolved.
-
-### **Issues**
-1. During development an issue with the iPhone 5/SE device showed whilst inspecting in Chrome DevTools where the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
-2. On the image carousel two of the images appear to jump slightly as they fade from one image to the next.
-3. On the Photography gallery page, two images appear slightly smaller than the others. 
-
-### **Fixes**
-1. Issue 1 - A media query was used to reduce the size of the logo when using devices up to a max of 320px wide, resolving the issue. 
-2. Issue 2 - The images were resized and re-uploaded to match the other image sizes, this resolves the issue.
-3. Issue 3 - The images were resized and re-uploaded to match the other image sizes, this resolves the issue.
-
-### **Code Validators:**
-
-The following websites were used to validate the code and there were no errors or warnings to show:
-
-HTML - [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
-
-CSS - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-
+Information regarding testing can be found in a separate file - TESTING.md
 
 ## **Deployment**
 
@@ -369,7 +178,6 @@ The Development Branch and the Master Branch are identical at the time of this p
 
 ![Screenshot Clone Dropdown](/assets/images/clone.png)
 
-
 4. Copy the URL in the box to clone with HTTPS.
 5. Open your preferred IDE.
 6. Change the working directory to the location you want the cloned directory to be made.
@@ -379,7 +187,6 @@ The Development Branch and the Master Branch are identical at the time of this p
 **To run on Gitpod:**
 1. Install the Gitpod browser extension. See link to instructions here - https://www.gitpod.io/docs/browser-extension/
 2. Once you have the Gitpod extension installed then simply click on the green Gitpod button as shown in the screenshot above and it will create a new workspace for you. 
-
 
 ## **Credits**
 
