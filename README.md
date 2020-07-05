@@ -17,7 +17,7 @@ Link to website - https://johnw876.github.io/johnwithey1/
 ### Needs of the user:
 * View the artist’s work in an easily accessible way.
 * Be able to easily find information on the artist and the services they offer.
-* Be able to follow the artists progress over time.
+* Be able to follow the artist's progress over time.
 * To keep up to date with news of the artist and their work.
 * Be able to follow the artist on social media platforms.
 * Be able to make contact with the artist to ask questions or to make enquiries.
@@ -303,12 +303,17 @@ The website was tested on the following devices:
 
 ### **Mobile**
 
-* Apple iPhone XR using Safari on OS 13.5.1
-* Apple iPhone 7 using Safari on OS 11.3.1
+* Apple iPhone XR using Safari on IOS 13.5.1
+* Apple iPhone 7 using Safari on IOS 11.3.1
+* Apple iPhone 8 using Safari on IOS 13.4
+* Motorola Moto E5 using Google Chrome on Android 8.1
+* Google Pixel 3A using Google Chrome on Android 10
+* Google pixel 3XL using Google Chrome on Android 10
 
 ### **Tablets**
 
 * Apple iPad Air 2 using Safari on OS 13.5.1
+* Microsoft Surface Pro on Windows 10 Pro (Tested on Microsoft Edge & Google Chrome)
 
 ### **Desktop** 
 
@@ -318,8 +323,18 @@ The website was tested on the following browsers on Apple iMac running OS Catali
 * Apple Safari - Version 13.1.1 (15609.2.9.1.2)
 * Mozilla Firefox Version 78.0.1 (64-bit)
 
-The website displayed well on all of the above browsers and all interactive elements were tested and found to be working correctly. 
+The website displayed well on all of the above browsers and devices. 
+All interactive elements were tested and found to be working correctly except for the issues detailed below which have now been resolved.
 
+### **Issues**
+1. Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
+2. On the image carousel two of the images appear to jump slightly as they fade from one image to the next.
+3. On the Photography gallery page, two images appear slightly smaller than the others. 
+
+### **Fixes**
+1. Issue 1 - A media query was used to reduce the size of the logo when using devices up to a max of 320px wide, resolving the issue. 
+2. Issue 2 - The images were resized and re-uploaded to match the other image sizes, this resolves the issue.
+3. Issue 3 - The images were resized and re-uploaded to match the other image sizes, this resolves the issue.
 
 ### **Code Validators:**
 
@@ -328,13 +343,6 @@ The following websites were used to validate the code and there were no errors o
 HTML - [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
 
 CSS - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-
-### **Issues**
-Testing on the iPhone 5/SE device showed the navbar toggle dropdown was being pushed down and out of position by the logo at its’ usual size. 
-
-### **Fixes**
-A media query was used to reduce the size of the logo when using devices up to a max of 320px wide, resolving the issue. 
-
 
 
 ## **Deployment**
