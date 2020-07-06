@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<!-- See below for code used from W3 Schools -->
+
+<!-- Image Gallery. The basic HTML for the image galleries, on both photography and art pages, came from W3 schools which was then adapted and styled.
+ I used the bootstrap grid to make responsive and ensure the columns would increase from small screens up to desktop-->
+<div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/w3images/lights.jpg">
+        <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+        <div class="caption">
+          <p>Lorem ipsum...</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/w3images/nature.jpg">
+        <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          <p>Lorem ipsum...</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/w3images/fjords.jpg">
+        <img src="/w3images/fjords.jpg" alt="Fjords" style="width:100%">
+        <div class="caption">
+          <p>Lorem ipsum...</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<!-- Image Gallery -->
+
+<!-- Contact Form - I got the idea for form-groups from W3 Schools to make the contact form responsive. See README for full links.
+     I also used W3 Schools to work out how to to make the pop up appear for invalid submission of contact form (empty fields).-->
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+<!-- Contact Form -->
